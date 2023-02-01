@@ -1,4 +1,4 @@
-# A New Life Together 2D Jump Game
+# Holo_Moonshin 
 
 ## 💻 프로젝트 소개
 문신 100주년 미술관 전시프로젝트 (  )
@@ -44,7 +44,6 @@
 <img src = "https://user-images.githubusercontent.com/84338927/216110528-287c6116-9980-4115-bdb2-553fda7101bb.PNG" width="50%" height="50%">
 
 
-## :camera: 전시장
-<img src = "https://user-images.githubusercontent.com/84338927/208941514-a167a275-b40a-415a-b0e5-d610f5aa9e68.PNG" width="50%" height="50%">
-<img src = "https://user-images.githubusercontent.com/84338927/208945025-6763a081-dd0d-465b-a70a-49028e3e6588.PNG" width="50%" height="50%">
-
+## 🎥 플레이 영상
+[YouTube ⏯️](https://youtu.be/oQ_b3tGW44E)
+[MBC 다큐멘터리 YouTube ⏯️](https://youtu.be/QA_9r173YjY?t=1510)
