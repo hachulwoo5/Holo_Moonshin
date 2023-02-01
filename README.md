@@ -42,6 +42,6 @@
 
 
 ## 🎥 플레이 영상
-[YouTube ⏯️](https://youtu.be/oQ_b3tGW44E)
+[YouTube ⏯️]([https://youtu.be/oQ_b3tGW44E](https://youtu.be/xq9QwuGJtns))
 
 [MBC 다큐멘터리 YouTube ⏯️](https://youtu.be/QA_9r173YjY?t=1510)
