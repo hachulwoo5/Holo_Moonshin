@@ -1,15 +1,16 @@
 # A New Life Together 2D Jump Game
 
-## 💻: 프로젝트 소개
-졸업 전시 작품 프로젝트 A New Life Together의 2D 점프게임입니다.
+## 💻 프로젝트 소개
+문신 100주년 미술관 전시프로젝트 (  )
 
-Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정보 전달
+문신 100주년을 맞아 메타버스 문신 프로젝트가 진행되었는데
+제페토 문신 미술관 구현, 홀로렌즈 문신 구현 중
+홀로렌즈 부분을 맡았습니다. 
 
-**Chapter2 : 2D 점프게임 - 유기견을 키우는 데 필요한 것, 마음가짐을 알려주고 입양 간접체험**
-    
-[Chapter3 : 홀로렌즈 - 입양한 유기견과 상호작용](https://github.com/hachulwoo5/holo-A-new-life-together.git)
+외주 제작된 문신 아바타를 이용해 스크립트와 애니메이션을 이용해
+미술관에 있는 현실 오브젝트에 맞게 상호작용 하는 것처럼 보이도록 하는게 목표였고, 사용자가 시작하는 곳에서 오브젝트 위치들이 정해지는 홀로렌즈의 특성때문에 앵커스크립트를 활용해 누가 어디서 시작하든 문신 아바타가 같은 위치에서 동작하도록 해 현실 오브젝트와의 자연스러운 동작을 구현했습니다.
 
-📌 스토리
+## 📌 주요기능
 
 주인공 '민수'는 퀴즈게임으로 아빠에게 입양 허락을 받았고
 
@@ -20,28 +21,28 @@ Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정�
 
 
 ## :hourglass: 개발 기간
-2022.08 ~ 2022.11
+2021.12 ~ 2022.02
 ## 🏃 작업 인원
-1명, 하철우
+3명, *
+* 하철우 : 홀로렌즈 문신 프로그램 전반적인 시스템, 아바타 애니메이션 구현
+* 최하람 : 문신 아바타 외주 신청, 홀로렌즈 빌드
+* 강동현 : 애니메이션 및 씬 구상, MRTK 설치
 
 ## ⚙️ 개발 환경
 * Unity
-* C#
-* Arduino IDE
+* MRTK
 
-## :thought_balloon: 초기 구상도
-
-<img src = "https://user-images.githubusercontent.com/84338927/208935871-4605b1d4-dcd2-419e-8b48-8e388f96a51e.PNG" width="70%" height="70%">
 
 ## :camera: 실행 화면
 
-<img src = "https://user-images.githubusercontent.com/84338927/208936563-8f092c0f-19ab-4c0b-a14f-5de780441417.PNG" width="50%" height="50%">
-<img src = "https://user-images.githubusercontent.com/84338927/208937276-3b35bd0a-3ff7-49f2-9171-f8b01005c4e2.PNG" width="50%" height="50%">
-<img src = "https://user-images.githubusercontent.com/84338927/208938258-b64dfd5a-f537-4bad-842b-85eb9e688b21.PNG" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/216109970-77f725ca-fe75-42fb-9e8e-e747ad4d2418.png" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/216110055-3b8bd934-187d-41d7-9227-257a8d3dc532.png" width="50%" height="50%">
 
-## :camera: 아두이노 센서 및 미니어처
-<img src = "https://user-images.githubusercontent.com/84338927/208937777-7b124720-028f-4da0-9276-c888f23ecbfb.PNG" width="50%" height="50%">
-<img src = "https://user-images.githubusercontent.com/84338927/208939039-2d56a0fd-c3b7-40dd-b0a7-8acab4dc9283.PNG" width="50%" height="50%">
+
+## :camera: 작업 사진
+<img src = "https://user-images.githubusercontent.com/84338927/216110396-ee995dbd-7e29-4152-b69e-8101fb1dd734.PNG" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/216110528-287c6116-9980-4115-bdb2-553fda7101bb.PNG" width="50%" height="50%">
+
 
 ## :camera: 전시장
 <img src = "https://user-images.githubusercontent.com/84338927/208941514-a167a275-b40a-415a-b0e5-d610f5aa9e68.PNG" width="50%" height="50%">
